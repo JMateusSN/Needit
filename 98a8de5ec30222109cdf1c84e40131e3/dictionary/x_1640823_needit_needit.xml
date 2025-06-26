@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bcbad652c34222109cdf1c84e401314f" label="Needit" max_length="40" name="x_1640823_needit_needit" type="collection">
+        <element label="Needit " max_length="65536" name="needit" type="html"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
